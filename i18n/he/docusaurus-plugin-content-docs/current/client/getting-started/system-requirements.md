@@ -9,7 +9,7 @@ sidebar_label: "מהן דרישות המערכת להפעלת אפליקציית
 | --- | --- |
 | Android | 10 |
 | iOS | 16.6 |
-| MacOS | 12.0 |
+| MacOS | 13.5 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
 

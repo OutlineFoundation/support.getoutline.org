@@ -9,7 +9,7 @@ Anda dapat mencoba Outline di sistem operasi apa pun. Berikut ini adalah sistem 
 | --- | --- |
 | Android | 10 |
 | iOS | 16.6 |
-| macOS | 10.15 |
+| macOS | 13.5 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
 

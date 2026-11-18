@@ -9,7 +9,7 @@ Outline můžete vyzkoušet v jakémkoli operačním systému. Následující ta
 | --- | --- |
 | Android | 10 |
 | iOS | 16.6 |
-| macOS | 12.0 |
+| macOS | 13.5 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
 

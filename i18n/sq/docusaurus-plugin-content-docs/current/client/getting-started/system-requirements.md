@@ -9,7 +9,7 @@ Je i/e mirëpritur të provosh Outline në çdo sistem operativ. Në vijim gjend
 | --- | --- |
 | Android | 10 |
 | iOS | 16.6 |
-| macOS | 12.0 |
+| macOS | 13.5 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
 

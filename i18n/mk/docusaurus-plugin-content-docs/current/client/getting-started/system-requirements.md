@@ -9,7 +9,7 @@ sidebar_label: "Кои се минималните спецификации на
 | --- | --- |
 | Android | 10 |
 | iOS | 16.6 |
-| macOS | 10.15 |
+| macOS | 13.5 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
 
