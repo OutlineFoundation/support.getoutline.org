@@ -9,7 +9,7 @@ Outline 可以在任何作業系統上執行，以下是最低作業系統需求
 | --- | --- |
 | Android | 10 |
 | iOS | 16.6 |
-| macOS | 12.0 |
+| macOS | 13.5 |
 | Windows | 10 |
 | Linux | Ubuntu 20.04 |
 

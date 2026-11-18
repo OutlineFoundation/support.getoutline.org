@@ -9,7 +9,7 @@ sidebar_label: "Outline क्लाइन्ट प्रयोग गर्न
 | --- | --- |
 | Android | १० |
 | iOS | १६.६ |
-| macOS | १२.० |
+| macOS | १३.५ |
 | Windows | १० |
 | Linux | Ubuntu २०.०४ |
 
